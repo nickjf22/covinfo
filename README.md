@@ -21,4 +21,11 @@ The program includes 3 features to meet the project requirements:
 2. Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program
 3. Read data from an external file, such as text, JSON, CSV, etc and use that data in your application
 
-Any special instructions required for the reviewer to run your project
+Any special instructions required for the reviewer to run your project?
+There are no special instructions required for the reviewer to run this project.
+However, if you choose to do so, you may modify the cdc_info.txt file to change
+the temperature that is considered to be a fever. This is an example of the ability
+of a clinician to change diagnostic criteria the program uses based on updated 
+guidance, specific patient care criteria, etc. Additionally, the temperature_log.txt 
+file will contain the exported  temperature measurements supplied by the user so that 
+they may save them after the program terminates.
